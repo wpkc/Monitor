@@ -2,7 +2,7 @@
   <VersionMajor>2</VersionMajor>
   <VersionMinor>2</VersionMinor>
   <VersionRelease>0</VersionRelease>
-  <VersionBuild>1</VersionBuild>
-  <UpdateURL>http://www.tangoexchange.com/versions/monitor.mmip</UpdateURL>
+  <VersionBuild>2</VersionBuild>
+  <UpdateURL>https://www.tangoexchange.com/versions/monitor.mmip</UpdateURL>
   <NewVersionDescription>MediaMonkey Script: Adds context menus for sending sound files to a external audio monitoring program.</NewVersionDescription>
 </SoftwareVersion>

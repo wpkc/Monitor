@@ -69,7 +69,8 @@ End Sub
 MonitorReadSettings
   
 '*******************************************************************'
-'* Form produced by MMVBS Form Creator (http://trixmoto.net/mmvbs) *'
+'* Form produced by MMVBS Form Creator                             *'
+'* (https://code.google.com/archive/p/mmvbs/)                      *'
 '*******************************************************************'
 Dim UI : Set UI = SDB.UI
 
