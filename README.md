@@ -2,6 +2,7 @@ Monitor
 =======
 
 MediaMonkey Script: Adds context menus for sending sound files to a external audio monitoring program
+
 More Info: <https://www.tangoexchange.com/pre-listen-with-the-monitor-plugin-for-mediamonkey/>
 
 Installation:
