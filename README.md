@@ -2,13 +2,14 @@ Monitor
 =======
 
 MediaMonkey Script: Adds context menus for sending sound files to a external audio monitoring program
+More Info: <https://www.tangoexchange.com/pre-listen-with-the-monitor-plugin-for-mediamonkey/>
 
 Installation:
 
-* MediMonkey must be installed on your system before proceeding.
-* Download monitor.mmip and double-click the file, this will launch MediaMonkey and start the script installation process.
+* [MediaMonkey](https://www.mediamonkey.com/) must be installed on your system before proceeding.
+* Download [monitor.mmip](https://github.com/wpkc/Monitor/blob/master/monitor.mmip) and double-click the file, this will launch MediaMonkey and start the script installation process.
 * Some versions of Windows will require entering an administration account name and passowrd to proceed.
-* You will be asked to locate the program you will use for pre-listening. Command line options for Foobar2000 are already set.
+* You will be asked to locate the program you will use for pre-listening. Command line options for [Foobar2000](http://www.foobar2000.com/) are already set.
 * Restart MediaMonkey.
 
 Updating:
